@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "redg/directory",
+    "name": "red-g/directory",
     "summary": "A package for navigating directories",
     "license": "MIT",
     "version": "1.0.0",
