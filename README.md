@@ -12,6 +12,6 @@ guides you towards a simple architecture:
 
 I was working on a desktop app which used Elm for the UI. I needed the user to
 select a file; Elm would then send it's <i>path</i> to the app's backend. For
-security reasons, browser apps cannot read file paths—–therefore, a custom
+security reasons, browser apps cannot read file paths—therefore, a custom
 solution was the only option. After a lot of tinkering, I ultimately settled on
 this directory design.
